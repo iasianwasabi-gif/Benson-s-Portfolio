@@ -1,0 +1,17 @@
+## Active Directory User Management Lab
+
+### Objective
+Simulate common Tier 1 help desk tasks using Active Directory.
+
+### Tasks Performed
+- Created user accounts
+- Reset passwords
+- Locked/unlocked accounts
+- Assigned users to security groups
+
+### Tools Used
+- Windows Server (Lab Environment)
+- Active Directory Users and Computers
+
+### Outcome
+Successfully resolved common identity-related issues that are frequently escalated to help desk teams.
