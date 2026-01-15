@@ -1,0 +1,9 @@
+## Sample Help Desk Tickets
+
+### Ticket #001 – Password Reset
+**Issue:** User unable to log in due to locked account  
+**Resolution:** Verified identity, unlocked account, reset password, advised password policy
+
+### Ticket #002 – Printer Not Working
+**Issue:** Printer offline in student lab  
+**Resolution:** Restarted print spooler, reconnected device, confirmed test print
