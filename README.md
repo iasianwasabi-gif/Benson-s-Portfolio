@@ -11,3 +11,16 @@ foundational cybersecurity knowledge.
 - Networking fundamentals
 - Security best practices
 
+## Planned Bonus Skills
+- PowerShell (basic commands)
+- Linux fundamentals
+- MFA & account security basics
+- Incident documentation
+- Remote support tools (RDP, TeamViewer concepts)
+
+## Upcomming Certification 
+- Security + – In Progress
+- TCM Security Help Desk – In Progress
+- Google IT Support Fundamentals (Coursera) – In Progress
+- Microsoft SC-900 or AZ-900 - Not Started
+- Comptia A + - Not Started
