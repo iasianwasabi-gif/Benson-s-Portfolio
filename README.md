@@ -7,7 +7,7 @@ foundational cybersecurity knowledge.
 ### **Project 1 – IT Helpdesk Portfolio**   
 - **[Help Desk Tickets (PDF)](IT HelpDesk Portfolio Tickets.pdf)**
 - **[Case Studies (PDF)](IT HelpDesk Portfolio Tickets.pdf)** 
-
+**IT HelpDesk Portfolio Tickets.pdf**
 ## Skills Demonstrated
 - Active Directory user management
 - Ticket documentation and incident response
