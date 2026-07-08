@@ -4,6 +4,9 @@ This repository documents hands-on labs and simulations related to entry-level I
 The goal is to demonstrate practical troubleshooting skills, customer support workflows, and
 foundational cybersecurity knowledge.
 
+### **Project 1 – IT Helpdesk Portfolio**   
+- **[Case Studies (PDF)](IT_Helpdesk_Portfolio_Report.pdf)** 
+
 ## Skills Demonstrated
 - Active Directory user management
 - Ticket documentation and incident response
