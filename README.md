@@ -5,9 +5,10 @@ The goal is to demonstrate practical troubleshooting skills, customer support wo
 foundational cybersecurity knowledge.
 
 ### **Project 1 – IT Helpdesk Portfolio**   
-- **[Help Desk Tickets (PDF)](IT HelpDesk Portfolio Tickets.pdf)**
-- **[Case Studies (PDF)](IT HelpDesk Portfolio Tickets.pdf)** 
-**IT HelpDesk Portfolio Tickets.pdf**
+- **[Case Studies (PDF)](IT HelpDesk Portfolio Tickets.pdf)**
+- **[Case Studies (PDF)](IT_Helpdesk_Portfolio_Report.pdf)** 
+  
+  
 ## Skills Demonstrated
 - Active Directory user management
 - Ticket documentation and incident response
